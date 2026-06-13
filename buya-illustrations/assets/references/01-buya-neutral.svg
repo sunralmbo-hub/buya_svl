@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="white"/>
+  <g stroke="#111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M505 250 C500 178 565 120 650 132 C735 144 790 212 775 292 C760 372 688 395 620 372 C584 360 560 340 548 315" fill="white"/>
+    <path d="M548 315 C555 398 514 420 468 396 C430 376 420 322 455 286 C476 266 498 260 520 260" fill="white"/>
+    <path d="M640 365 C637 430 680 475 755 480 C830 485 875 450 890 390"/>
+    <path d="M760 478 C790 522 840 535 900 515"/>
+  </g>
+  <path d="M500 240 C455 238 435 258 438 286 C440 309 471 316 524 308 L524 345 C558 340 580 320 588 286 C596 252 562 241 500 240 Z" fill="#f5a21a" stroke="#111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="560" cy="218" r="8" fill="#111"/>
+  <circle cx="616" cy="216" r="8" fill="#111"/>
+  <text x="515" y="555" font-size="42" font-family="sans-serif" fill="#111">先这样</text>
+</svg>
