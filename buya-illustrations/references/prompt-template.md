@@ -5,6 +5,9 @@
 ```text
 Generate one standalone 16:9 horizontal Chinese article mini-comic illustration.
 
+Identity lock comes first:
+Before drawing the comic scene, lock the recurring character identity. The character is “不鸭不咋样”, a minimalist Chinese sticker-style white long-neck duck. It should have: a large rounded head, puffy cheek, long simple white neck, simplified white body, thick black hand-drawn outline, tiny black dot eyes with no highlights, flat horizontal orange beak with black outline, goofy blank deadpan expression, and almost no realistic feather/wing/foot detail. Prefer side profile or 3/4 side profile. Do not make it a yellow duck, realistic duck, goose, swan, plush toy, 3D toy, generic mascot, big-eyed cute animal, or realistic bird.
+
 Visual DNA:
 Pure white page background. Thick black hand-drawn comic panel borders, slightly uneven. White long-neck duck characters with flat orange beaks, tiny black dot eyes, rounded heads and puffy cheeks. Handwritten Chinese captions inside white rectangular text boxes with thick black outlines. Optional visual motifs: a single duck, two ducks interacting, a small sequence of panels, a duck crowd texture, pale green background blocks, one special duck with a pink crest/blush/mark, small yellow sparkles. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no realistic UI, no 3D, no plush toy, no realistic animal.
 
@@ -45,6 +48,12 @@ One image explains only one emotional scene or meme-like metaphor. It should loo
 
 ```text
 Edit the provided image. Remove only the handwritten title "{要删除的文字}" and its underline from the top-left corner. Fill that area with the same clean white background, matching the surrounding blank paper. Preserve everything else exactly: character, labels, paths, line style, composition, aspect ratio, and image quality. Do not add any new text or objects.
+```
+
+增强不鸭身份相似度：
+
+```text
+Regenerate this image with the same composition, but make the duck character much closer to the “不鸭不咋样” identity: white long neck, large round head, puffy cheek, thick black outline, flat horizontal orange beak, tiny black dot eyes, blank goofy expression, simplified white body, no realistic feathers, no big cute eyes, no yellow duck, no 3D toy, no generic mascot. Keep the mini-comic panel style and handwritten Chinese caption boxes.
 ```
 
 增强不鸭小漫画感：
