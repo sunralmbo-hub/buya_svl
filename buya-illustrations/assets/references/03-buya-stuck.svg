@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="white"/>
+  <g stroke="#111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="690" y="205" width="170" height="250" rx="18"/>
+    <path d="M540 252 C535 180 598 126 680 136 C760 146 807 210 792 286 C780 348 725 378 660 364 C623 356 594 335 578 306" fill="white"/>
+    <path d="M578 306 C580 365 560 410 520 418 C480 426 450 390 455 340 C460 292 495 260 535 255" fill="white"/>
+    <path d="M660 364 C642 422 655 472 718 496 C764 514 814 494 842 455"/>
+    <path d="M625 422 L575 455"/>
+    <path d="M755 432 L835 428"/>
+    <path d="M865 180 L900 145"/>
+    <path d="M890 235 L940 230"/>
+  </g>
+  <path d="M540 242 C492 242 472 262 478 288 C483 310 515 315 565 306 L565 342 C603 335 625 316 630 286 C635 252 602 242 540 242 Z" fill="#f5a21a" stroke="#111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="606" cy="218" r="8" fill="#111"/>
+  <circle cx="660" cy="216" r="8" fill="#111"/>
+  <text x="430" y="540" font-size="42" font-family="sans-serif" fill="#111">卡住了</text>
+</svg>
