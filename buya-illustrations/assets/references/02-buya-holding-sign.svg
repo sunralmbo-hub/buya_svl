@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="white"/>
+  <g stroke="#111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M470 250 C468 178 530 122 612 132 C705 143 758 212 737 290 C720 355 650 383 582 360 C548 348 522 328 510 302" fill="white"/>
+    <path d="M510 302 C520 390 482 430 430 398 C386 370 390 308 430 272 C446 258 458 252 480 250" fill="white"/>
+    <path d="M582 360 C575 440 610 505 700 508 C795 510 850 458 852 390"/>
+    <path d="M570 430 L480 455"/>
+    <path d="M735 430 L840 450"/>
+    <rect x="815" y="395" width="185" height="92" rx="12" fill="white"/>
+  </g>
+  <path d="M470 240 C425 240 405 258 408 286 C410 310 442 316 493 307 L493 342 C530 336 550 318 558 285 C565 253 533 241 470 240 Z" fill="#f5a21a" stroke="#111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="530" cy="218" r="8" fill="#111"/>
+  <circle cx="584" cy="216" r="8" fill="#111"/>
+  <text x="848" y="455" font-size="34" font-family="sans-serif" fill="#111">我没事</text>
+  <path d="M515 205 C497 195 490 210 508 222" stroke="#f3a4b7" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>
